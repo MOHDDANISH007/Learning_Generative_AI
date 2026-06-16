@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Emma Liu",
+    "email": "emma.liu@stanford.edu",
+    "age": 22,
+    "gender": "Female",
+    "course": "B.Sc. Computer Science",
+    "university": "Stanford University",
+    "city": "Stanford",
+    "country": "United States",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Data Visualization"
+    ],
+    "hobbies": [
+      "Hiking",
+      "Photography",
+      "Cooking"
+    ],
+    "graduation_year": 2025,
+    "bio": ""
+  },
+  {
+    "name": "Aisha Khan",
+    "email": "aisha.khan22@universitymail.edu",
+    "age": 21,
+    "gender": "Female",
+    "course": "B.Sc. Computer Science",
+    "university": "University of Toronto",
+    "city": "Toronto",
+    "country": "Canada",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Data Visualization",
+      "SQL"
+    ],
+    "hobbies": [
+      "Photography",
+      "Cycling",
+      "Reading sci‑fi novels"
+    ],
+    "graduation_year": 2025,
+    "bio": "Aisha is a passionate coder who loves turning data into stories. She volunteers as a mentor for high‑school girls interested in STEM and enjoys exploring the city's diverse neighborhoods on her bike."
+  },
+  {},
+  {
+    "name": "Aisha Khan",
+    "email": "aisha.khan23@universityoflondon.ac.uk",
+    "age": 21,
+    "gender": "Female",
+    "course": "BSc Computer Science",
+    "university": "University of London",
+    "city": "London",
+    "country": "United Kingdom"
+  }
+]

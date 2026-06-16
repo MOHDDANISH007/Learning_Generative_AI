@@ -1,0 +1,32 @@
+[
+  {
+    "userquery": "hello ai",
+    "response": "Hello! How can I help you today?",
+    "timestamp": "2026-06-14T17:19:05.188050"
+  },
+  {
+    "userquery": "my name is mohammad danish, i am pursing MS from integral university lucknow and i am planning to do phd from united state of america",
+    "response": "Nice to meet you, Mohammad Danish! That’s an exciting goal—moving from an MS at Integral University to a PhD in the USA is a big but very achievable step. Let’s break it down so you can move forward with confidence.\n\n### 1. **Clarify Your Research Area**\n   - **What’s your MS specialization?** (e.g., Computer Science, Biotechnology, Mechanical Engineering)\n   - **Narrow your PhD focus**: US universities look for applicants with clear research interests. For example, instead of \"AI,\" specify \"Explainable AI for Healthcare Diagnostics.\"\n\n### 2. **Shortlist Universities & Professors**\n   - **Use tools**:  \n     - [US News Grad School Rankings](https://www.usnews.com/best-graduate-schools)  \n     - [FindAPhD](https://www.findaphd.com/) (for funded positions)  \n     - **Google Scholar**: Search recent papers in your field and note professors whose work aligns with yours.\n   - **Key criteria**:  \n     - Research fit (professors’ labs)  \n     - Funding (assistantships, fellowships)  \n     - Location/cost of living  \n\n### 3. **Strengthen Your Profile**\n   - **GRE/TOEFL**: Most STEM programs now waive GRE, but TOEFL/IELTS is required. Aim for TOEFL ≥100 (iBT) or IELTS ≥7.0.\n   - **Publications**: If you don’t have any, consider submitting your MS thesis work to a conference/journal (even a local one helps).\n   - **Letters of Recommendation**: Secure 3 strong letters (preferably from professors who know your research).\n\n### 4. **Funding Options**\n   - **Fully Funded PhDs**: Most US STEM PhDs cover tuition + stipend (~$25k–$40k/year). Funding comes from:\n     - **Research Assistantships (RA)**: Work with a professor on funded projects.\n     - **Teaching Assistantships (TA)**: Teach undergrad labs/courses.\n     - **Fellowships**: Apply for external funding like **Fulbright**, **AAUW**, or university-specific awards.\n\n### 5. **Application Timeline**\n   | **Task**               | **Deadline**          |\n   |------------------------|-----------------------|\n   | Shortlist 8–10 schools | June–July 2024        |\n   | Contact professors",
+    "timestamp": "2026-06-14T18:05:59.791283"
+  },
+  {
+    "userquery": "you know my name ?",
+    "response": "Yes, you told me earlier—your name is **Mohammad Danish**.",
+    "timestamp": "2026-06-14T18:06:30.884014"
+  },
+  {
+    "userquery": "x = 10",
+    "response": "Got it—`x = 10`.  \nWhat would you like to do with this variable next?",
+    "timestamp": "2026-06-14T18:12:13.147176"
+  },
+  {
+    "userquery": "multiply with 2x+10",
+    "response": "We have  \nx = 10  \n\nExpression: 2x + 10  \n= 2(10) + 10  \n= 20 + 10  \n= 30  \n\nSo 2x + 10 evaluates to **30**.",
+    "timestamp": "2026-06-14T18:12:34.311333"
+  },
+  {
+    "userquery": "tell me something about me?",
+    "response": "From what you’ve shared so far, here’s a concise snapshot of “Mohammad Danish”:\n\n- **Name**: Mohammad Danish  \n- **Current status**: Master’s student at Integral University, Lucknow  \n- **Next goal**: PhD in the United States (field still unspecified, but STEM-oriented)  \n- **Academic mindset**: proactive—you’re already exploring funding, research fit, and standardized tests.  \n- **Technical side**: comfortable with basic algebra (we just solved 2x + 10 together).  \n- **Communication style**: direct, friendly, and you like quick feedback loops.\n\nIf you’d like me to refine this picture—add your exact research interests, publication list, GPA, target universities, or anything else—just let me know!",
+    "timestamp": "2026-06-14T18:13:36.366712"
+  }
+]
