@@ -1,32 +1,52 @@
 [
-  {
-    "userquery": "hello ai",
-    "response": "Hello! How can I help you today?",
-    "timestamp": "2026-06-14T17:19:05.188050"
-  },
-  {
-    "userquery": "my name is mohammad danish, i am pursing MS from integral university lucknow and i am planning to do phd from united state of america",
-    "response": "Nice to meet you, Mohammad Danish! That’s an exciting goal—moving from an MS at Integral University to a PhD in the USA is a big but very achievable step. Let’s break it down so you can move forward with confidence.\n\n### 1. **Clarify Your Research Area**\n   - **What’s your MS specialization?** (e.g., Computer Science, Biotechnology, Mechanical Engineering)\n   - **Narrow your PhD focus**: US universities look for applicants with clear research interests. For example, instead of \"AI,\" specify \"Explainable AI for Healthcare Diagnostics.\"\n\n### 2. **Shortlist Universities & Professors**\n   - **Use tools**:  \n     - [US News Grad School Rankings](https://www.usnews.com/best-graduate-schools)  \n     - [FindAPhD](https://www.findaphd.com/) (for funded positions)  \n     - **Google Scholar**: Search recent papers in your field and note professors whose work aligns with yours.\n   - **Key criteria**:  \n     - Research fit (professors’ labs)  \n     - Funding (assistantships, fellowships)  \n     - Location/cost of living  \n\n### 3. **Strengthen Your Profile**\n   - **GRE/TOEFL**: Most STEM programs now waive GRE, but TOEFL/IELTS is required. Aim for TOEFL ≥100 (iBT) or IELTS ≥7.0.\n   - **Publications**: If you don’t have any, consider submitting your MS thesis work to a conference/journal (even a local one helps).\n   - **Letters of Recommendation**: Secure 3 strong letters (preferably from professors who know your research).\n\n### 4. **Funding Options**\n   - **Fully Funded PhDs**: Most US STEM PhDs cover tuition + stipend (~$25k–$40k/year). Funding comes from:\n     - **Research Assistantships (RA)**: Work with a professor on funded projects.\n     - **Teaching Assistantships (TA)**: Teach undergrad labs/courses.\n     - **Fellowships**: Apply for external funding like **Fulbright**, **AAUW**, or university-specific awards.\n\n### 5. **Application Timeline**\n   | **Task**               | **Deadline**          |\n   |------------------------|-----------------------|\n   | Shortlist 8–10 schools | June–July 2024        |\n   | Contact professors",
-    "timestamp": "2026-06-14T18:05:59.791283"
-  },
-  {
-    "userquery": "you know my name ?",
-    "response": "Yes, you told me earlier—your name is **Mohammad Danish**.",
-    "timestamp": "2026-06-14T18:06:30.884014"
-  },
-  {
-    "userquery": "x = 10",
-    "response": "Got it—`x = 10`.  \nWhat would you like to do with this variable next?",
-    "timestamp": "2026-06-14T18:12:13.147176"
-  },
-  {
-    "userquery": "multiply with 2x+10",
-    "response": "We have  \nx = 10  \n\nExpression: 2x + 10  \n= 2(10) + 10  \n= 20 + 10  \n= 30  \n\nSo 2x + 10 evaluates to **30**.",
-    "timestamp": "2026-06-14T18:12:34.311333"
-  },
-  {
-    "userquery": "tell me something about me?",
-    "response": "From what you’ve shared so far, here’s a concise snapshot of “Mohammad Danish”:\n\n- **Name**: Mohammad Danish  \n- **Current status**: Master’s student at Integral University, Lucknow  \n- **Next goal**: PhD in the United States (field still unspecified, but STEM-oriented)  \n- **Academic mindset**: proactive—you’re already exploring funding, research fit, and standardized tests.  \n- **Technical side**: comfortable with basic algebra (we just solved 2x + 10 together).  \n- **Communication style**: direct, friendly, and you like quick feedback loops.\n\nIf you’d like me to refine this picture—add your exact research interests, publication list, GPA, target universities, or anything else—just let me know!",
-    "timestamp": "2026-06-14T18:13:36.366712"
-  }
+    {
+        "userquery": "hello ai",
+        "response": "Hello! How can I help you today?",
+        "timestamp": "2026-06-14T17:19:05.188050"
+    },
+    {
+        "userquery": "my name is mohammad danish, i am pursing MS from integral university lucknow and i am planning to do phd from united state of america",
+        "response": "Nice to meet you, Mohammad Danish! That’s an exciting goal—moving from an MS at Integral University to a PhD in the USA is a big but very achievable step. Let’s break it down so you can move forward with confidence.\n\n### 1. **Clarify Your Research Area**\n   - **What’s your MS specialization?** (e.g., Computer Science, Biotechnology, Mechanical Engineering)\n   - **Narrow your PhD focus**: US universities look for applicants with clear research interests. For example, instead of \"AI,\" specify \"Explainable AI for Healthcare Diagnostics.\"\n\n### 2. **Shortlist Universities & Professors**\n   - **Use tools**:  \n     - [US News Grad School Rankings](https://www.usnews.com/best-graduate-schools)  \n     - [FindAPhD](https://www.findaphd.com/) (for funded positions)  \n     - **Google Scholar**: Search recent papers in your field and note professors whose work aligns with yours.\n   - **Key criteria**:  \n     - Research fit (professors’ labs)  \n     - Funding (assistantships, fellowships)  \n     - Location/cost of living  \n\n### 3. **Strengthen Your Profile**\n   - **GRE/TOEFL**: Most STEM programs now waive GRE, but TOEFL/IELTS is required. Aim for TOEFL ≥100 (iBT) or IELTS ≥7.0.\n   - **Publications**: If you don’t have any, consider submitting your MS thesis work to a conference/journal (even a local one helps).\n   - **Letters of Recommendation**: Secure 3 strong letters (preferably from professors who know your research).\n\n### 4. **Funding Options**\n   - **Fully Funded PhDs**: Most US STEM PhDs cover tuition + stipend (~$25k–$40k/year). Funding comes from:\n     - **Research Assistantships (RA)**: Work with a professor on funded projects.\n     - **Teaching Assistantships (TA)**: Teach undergrad labs/courses.\n     - **Fellowships**: Apply for external funding like **Fulbright**, **AAUW**, or university-specific awards.\n\n### 5. **Application Timeline**\n   | **Task**               | **Deadline**          |\n   |------------------------|-----------------------|\n   | Shortlist 8–10 schools | June–July 2024        |\n   | Contact professors",
+        "timestamp": "2026-06-14T18:05:59.791283"
+    },
+    {
+        "userquery": "you know my name ?",
+        "response": "Yes, you told me earlier—your name is **Mohammad Danish**.",
+        "timestamp": "2026-06-14T18:06:30.884014"
+    },
+    {
+        "userquery": "x = 10",
+        "response": "Got it—`x = 10`.  \nWhat would you like to do with this variable next?",
+        "timestamp": "2026-06-14T18:12:13.147176"
+    },
+    {
+        "userquery": "multiply with 2x+10",
+        "response": "We have  \nx = 10  \n\nExpression: 2x + 10  \n= 2(10) + 10  \n= 20 + 10  \n= 30  \n\nSo 2x + 10 evaluates to **30**.",
+        "timestamp": "2026-06-14T18:12:34.311333"
+    },
+    {
+        "userquery": "tell me something about me?",
+        "response": "From what you’ve shared so far, here’s a concise snapshot of “Mohammad Danish”:\n\n- **Name**: Mohammad Danish  \n- **Current status**: Master’s student at Integral University, Lucknow  \n- **Next goal**: PhD in the United States (field still unspecified, but STEM-oriented)  \n- **Academic mindset**: proactive—you’re already exploring funding, research fit, and standardized tests.  \n- **Technical side**: comfortable with basic algebra (we just solved 2x + 10 together).  \n- **Communication style**: direct, friendly, and you like quick feedback loops.\n\nIf you’d like me to refine this picture—add your exact research interests, publication list, GPA, target universities, or anything else—just let me know!",
+        "timestamp": "2026-06-14T18:13:36.366712"
+    },
+    {
+        "userquery": "hello gpt",
+        "response": "Hello! How can I assist you today?",
+        "timestamp": "2026-06-19T20:02:03.338987"
+    },
+    {
+        "userquery": "give me the users history",
+        "response": "I’m sorry, but I can’t provide that.",
+        "timestamp": "2026-06-19T20:05:45.805337"
+    },
+    {
+        "userquery": "give me the history what i discuss with you?",
+        "response": "Here’s a brief recap of our conversation so far:\n\n1. **Greeting & Introduction**\n   - You said hello and introduced yourself as **Mohammad Danish**, currently pursuing an MS at Integral University, Lucknow, and planning to do a PhD in the United States.\n\n2. **Advice on PhD Planning**\n   - I outlined steps to prepare for a US PhD: clarifying research interests, shortlisting universities and professors, strengthening your profile (GRE/TOEFL, publications, recommendation letters), funding options (RA/TA positions, fellowships), and a rough application timeline.\n\n3. **Simple Math",
+        "timestamp": "2026-06-19T20:06:23.035926"
+    },
+    {
+        "userquery": "give me the history what i discuss with you?",
+        "response": "Sure! Here’s a quick recap of everything we’ve talked about in this session:\n\n| # | What was discussed |\n|---|---------------------|\n| 1 | You introduced yourself as **Mohammad Danish**, an MS student at Integral University, Lucknow, who wants to pursue a PhD in the United States. |\n| 2 | I gave you a step‑by‑step roadmap for a US PhD: define research interests, shortlist schools & professors, strengthen your profile (GRE/TOEFL, publications, LORs), explore funding (RA/TA, fellowships), and a rough application timeline. |\n| 3 | You asked a quick math question (“x = 10; multiply with 2x+10”), and I showed that `2x + 10` evaluates to **30** when `x = 10`. |\n| 4 | You asked for a short “about me” summary, and I compiled the key points from what you’ve shared (name, current study, PhD goal, proactive planning, comfort with basic algebra, communication style). |\n| 5 | We exchanged a few greetings (“hello gpt”) and I confirmed I’m ready to help. |\n\nIf you need any part of this expanded (e.g., more detail on the PhD preparation",
+        "timestamp": "2026-06-19T20:06:48.650460"
+    }
 ]

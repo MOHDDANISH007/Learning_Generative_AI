@@ -26,7 +26,8 @@ def load_chat_history():
 def save_chat_history(history):
     """Save chat history to file"""
     with open(CHAT_FILE, 'w', encoding='utf-8') as f:
-        json.dump(history, f, indent=2, e   alse)
+        json.dump(history, f, indent=2, ensure_ascii=False)
+
 
 def format_history_for_ai(history):
     """Convert stored history into format for AI context"""
