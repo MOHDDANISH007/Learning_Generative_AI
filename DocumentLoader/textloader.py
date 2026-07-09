@@ -1,10 +1,15 @@
 from langchain_huggingface import HuggingFaceEndpoint, ChatHuggingFace
 from dotenv import load_dotenv
 from langchain_community.document_loaders import TextLoader
+from langchain_core.documents import Document
+import glob
 import os
+
+
 
 load_dotenv()
 
+print(f"glob {glob}")
 llm = HuggingFaceEndpoint(
     repo_id="openai/gpt-oss-120b",
     huggingfacehub_api_token=os.getenv("HUGGING_FACE_API_KEY"),
@@ -21,6 +26,7 @@ cricketFile = TextLoader("cricket.txt", encoding="utf-8")
 # Load the document
 documents = cricketFile.load()
 
-print(documents)
+# source
+print(documents[0].metadata)  # Print the source of the document
 
 

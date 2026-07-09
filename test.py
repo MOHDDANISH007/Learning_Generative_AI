@@ -1,31 +1,43 @@
-import langchain
-import os 
-import openai
-import numpy as np
-import anthropic
-import transformers
-import huggingface_hub
-from sklearn import __version__ as sckit_learn_version
-import sys
+from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import StrOutputParser
+from langchain_huggingface import HuggingFaceEndpoint, ChatHuggingFace
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+llm = HuggingFaceEndpoint(
+    repo_id="openai/gpt-oss-120b",
+    huggingfacehub_api_token=os.getenv("HUGGING_FACE_API_KEY"),
+    task="text-generation",
+    max_new_tokens=300,
+    temperature=0.7
+)
+
+
+# Step 1: Prompt
+prompt = ChatPromptTemplate.from_template("Explain {topic} in very simple English")
+
+# Step 2: Model
+model = ChatHuggingFace(llm=llm)
+
+# Step 3: Parser
+parser = StrOutputParser()
+
+# Step 4: Chain
+chain = prompt | model | parser
+
+# Step 5: Stream output
+# for chunk in chain.stream({"topic": "Artificial Intelligence"}):
+#     print(chunk, end="")
+
+# for chunk in chain.stream({"topic": "Artificial Intelligence"}):
+#     print("\n---CHUNK START---")
+#     print((chunk))
+#     print("---CHUNK END---")
 
 
 
-# print("Installed package versions:")
-# print(100*"-")
-# print(f"LangChain version: {langchain.__version__}")
-# print(f"OpenAI version: {openai.__version__}")
-# print(f"NumPy version: {np.__version__}")
-# print(f"LangChain-Anthropic version: {anthropic.__version__}")
-# print(f"Transformers version: {transformers.__version__}")
-# print(f"Hugging Face Hub version: {huggingface_hub.__version__}")
-# print(f"Scikit-learn version: {sckit_learn_version}")
-
-
-# print(os.path.exists(".env"))
-
-print(sys.argv) 
-print(sys.argv[1:])
-print(sys.platform)
-print(sys.version)
-print(os.curdir)
-print(sys.path)
+for chunk in chain.stream({"topic": "Artificial Intelligence"}):
+    print(chunk, end="", flush=False)

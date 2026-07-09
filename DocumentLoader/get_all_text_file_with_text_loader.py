@@ -6,9 +6,10 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableSequence
 import os
 
-import glob
+import glob # use of glo
 
 load_dotenv()
+
 
 
 llm = HuggingFaceEndpoint(
